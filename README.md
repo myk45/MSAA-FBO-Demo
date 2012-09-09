@@ -1,4 +1,4 @@
 MSAA-FBO-Demo
 =============
 
-Glut tutorial on using MSAA on FBOs
+Glut tutorial[with sample code] on using MSAA on FBOs.
