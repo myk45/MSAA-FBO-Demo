@@ -74,7 +74,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FBO.cpp" />
     <ClCompile Include="MSAA_FBO.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FBO.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
